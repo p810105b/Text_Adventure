@@ -1,4 +1,5 @@
 # Text_Adventure
+Onyl apk file
 
 The traditional text adventure game is a game where the program provides a plot and options for actions, and players choose options to act.
 
